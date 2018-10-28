@@ -1,0 +1,11 @@
+.registration-wrapper {
+    display: flex;
+    flex-direction: column;
+    align-self: center;
+    align-items: center;
+    margin: 30px;
+}
+
+.registration-wrapper input, button {
+    margin: 15px;
+}
